@@ -13,7 +13,7 @@ Welcome to the Movie Recommendation System — your personalized movie companion
 
 ## 🌟 Live Preview
 
-🔥 Experience it here → **[Movie Recommendation System]([YOUR_STREAMLIT_LINK_HERE](https://movie-recommendation-system-qce7agkmxw4dx3e8ontxny.streamlit.app/))**  
+🔥 Experience it here → **[Movie Recommendation System](https://movie-recommendation-system-qce7agkmxw4dx3e8ontxny.streamlit.app/)**  
 
 🖥 No installation required — just click and explore!
 
